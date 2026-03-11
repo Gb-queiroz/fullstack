@@ -1,0 +1,82 @@
+/* Reset básico */
+
+.topo {
+    background: white;
+    padding: 10px 40px;
+    font-size: 14px;
+    display: flex;
+    gap: 20px;
+    color: gray;
+}
+
+.assine {
+    background-color: red;
+    color: gray;
+}
+
+.face {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.festival {
+    color: red;
+    padding: 50px;
+}
+
+.noticias {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+
+}
+
+.primeira {
+    background-color: red;
+    color: white;
+
+}
+
+.todas {
+    display: flex;
+    gap: 70px;
+    flex-direction: unset;
+}
+
+.segunda {
+    color: red;
+}
+
+.terceira {
+    color: red;
+}
+
+.quarta {
+    color: red;
+}
+
+.quinta {
+    color: red;
+}
+
+.video {
+    display: flex;
+    background-color: gray;
+    justify-content: space-between;
+    padding: 100px;
+    text-align: left;
+    padding: 100px;
+    padding: auto;
+
+}
+
+.rodape {
+    background-color: gainsboro;
+    flex-direction: inherit;
+    display: flex;
+    justify-content: space-between;
+    padding: auto;
+hyphenate-character: inherit;
+}
