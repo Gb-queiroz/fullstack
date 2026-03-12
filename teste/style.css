@@ -1,0 +1,13 @@
+.body {
+    background-color: gray;
+}
+
+.pote {
+    color: purple;
+    justify-content: center;
+    align-items: center;
+}
+
+.id{
+    background-color: yellow;
+}
